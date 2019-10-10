@@ -8,4 +8,6 @@ Almost all assets were found on [figma resources](https://www.figma.com/resource
 
 [UI-Kit.co Material Design](https://ui-kit.co/)
 
+[UX Flowchart kit](https://uxflow.pro/)
+
 [Sticky Notes by Crystal Grave](https://github.com/crystalgrave/)
